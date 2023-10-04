@@ -1,4 +1,4 @@
-package org.example.facada;
+package org.example.facade;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;

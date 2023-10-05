@@ -124,10 +124,22 @@ La arquitectura que se realizo fue la siguiente, si miramos con detalle el docke
 
 ![image](https://github.com/wilmer-rodriguez-r/AREP_Taller06/assets/77862048/f8c2b31e-d0c9-4347-8f8e-71c3581fad31)
 
+## Videos
+
+Corriendo desde el docker local.
+
+https://github.com/wilmer-rodriguez-r/AREP_Taller06/assets/77862048/f43d5b10-794d-4ac8-8e54-d7779a3e8083
+
+Corriendo desde la maquina virtual.
+
+https://github.com/wilmer-rodriguez-r/AREP_Taller06/assets/77862048/ec4766ba-1ec4-466c-8435-8b6be20704ae
 
 ## Construido con
 
 * [Maven](https://maven.apache.org/) - Administrador de dependencias
+
+
+
 
 ## Version
 
